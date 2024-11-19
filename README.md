@@ -51,7 +51,7 @@ Respondi algumas perguntas de negócio utilizando consultas SQL, com os resultad
 ### Arcos One Piece
 [Publicação](https://www.linkedin.com/posts/frederico-a-carvalho_dados-data-analisededados-activity-7253099473206136832-lWp9?utm_source=share&utm_medium=member_desktop)
 
-Desenvolvi uma análise de dados sobre um dos animes/mangás preferidos meu e provavelmente da maioria das pessoas, utilizando um dataset que fornece informações tanto sobre o mangá, quanto sobre o anime, arco por arco. O dashboard desenvolvido permite analisar quais arcos ocupam mais tempo no anime em comparação com sua representação no mangá, permite também analisar se há diferenças significativas entre a representação de um arco no mangá versus o anime, analisar quais arcos têm a maior e a menor eficiência de adaptação, entre outras informações.
+Desenvolvi um dashboard de dados sobre um dos animes/mangás preferidos meu e provavelmente da maioria das pessoas, utilizando um dataset que fornece informações tanto sobre o mangá, quanto sobre o anime, arco por arco. O dashboard desenvolvido permite analisar quais arcos ocupam mais tempo no anime em comparação com sua representação no mangá, permite também analisar se há diferenças significativas entre a representação de um arco no mangá versus o anime, analisar quais arcos têm a maior e a menor eficiência de adaptação, entre outras informações.
 
 
 ## Talks & Lectures
